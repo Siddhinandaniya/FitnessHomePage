@@ -3,9 +3,10 @@ This is a small Fitness Website Project. This project is created using basics of
 
 ### Links
 
-- Live Site URL: [https://siddhinandaniya.github.io/FitnessHomePage/]( https://siddhinandaniya.github.io/FitnessHomePage/)
+- Live Site URL: https://Siddhie.github.io/FitnessHomePage/
 
 ## Author
 
-- Linkedin - [Siddhi Nandaniya](https://www.linkedin.com/in/siddhi-nandaniya/)
-- Frontend Mentor - [@siddhinandaniya](https://www.frontendmentor.io/profile/Siddhinandaniya)
+- Linkedin - [Siddhi Nandaniya](https://www.linkedin.com/in/siddhie/)
+- Frontend Mentor - [@siddhinandaniya](https://www.frontendmentor.io/profile/Siddhie)
+
